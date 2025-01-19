@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.py
+102203594_Topsis.egg-info/PKG-INFO
+102203594_Topsis.egg-info/SOURCES.txt
+102203594_Topsis.egg-info/dependency_links.txt
+102203594_Topsis.egg-info/requires.txt
+102203594_Topsis.egg-info/top_level.txt
+102203594_topsis.egg-info/PKG-INFO
+102203594_topsis.egg-info/SOURCES.txt
+102203594_topsis.egg-info/dependency_links.txt
+102203594_topsis.egg-info/requires.txt
+102203594_topsis.egg-info/top_level.txt
+topsis/__init__.py
+topsis/topsis.py
